@@ -94,5 +94,8 @@
         "Черпает",
         "чтобы"
     ],
-    "python.linting.mypyEnabled": true
+    "python.linting.mypyEnabled": true,
+    "python.analysis.extraPaths": [
+        "./graphic_arts"
+    ]
 }
